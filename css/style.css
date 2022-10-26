@@ -1,3 +1,22 @@
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: azure;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style-type: none;
+    margin: 0 10px;
+}
+
+a {
+    text-decoration: none;
+    text-decoration-color: none;
+}
+
+div {
+    display: block;
 }
